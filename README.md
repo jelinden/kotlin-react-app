@@ -2,7 +2,7 @@
 
 This is a simple app with a Kotlin backend offering the api's for the React frontend.
 
-![coffee-list-app-image](https://github.com/jelinden/kotlin-react-app/raw/master/coffee-list-app.png)
+![coffee-list-app-image](https://github.com/jelinden/kotlin-react-app/raw/main/coffee-list-app.png)
 
 server directory is for kotlin backend
 
